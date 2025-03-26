@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SỔ GIÁO DẠY CHÍNH TẢ"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:paddingTop="24dp"
+        android:paddingBottom="12dp"
+        android:textColor="#4A148C"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:text="Đoạn văn"
+        android:textColor="#555555"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edtBaiChinhSua"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@android:drawable/editbox_background"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:gravity="top"
+        android:scrollbars="vertical"/>
+
+    <Button
+        android:id="@+id/btnGuiKetQua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Đã sửa bài"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>

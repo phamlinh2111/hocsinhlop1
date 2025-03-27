@@ -8,7 +8,7 @@
 - **Giáo viên chỉnh sửa** và nhấn nút đã sửa bài để gửi lại kết quả.
 
 ## Demo
-<img src="https://drive.google.com/uc?export=view&id=1MZ3KwrkMazfFW6q6rYbyeKKq8cfG1ttw" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1psUYcPkNVCyT9_J_PTB6I2X44EG4ln9N" width="195"/> <img src="https://drive.google.com/uc?export=view&id=1wjJzfJ70CVOp1v4tFp62y6_HMJs3DpuA" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1MZ3KwrkMazfFW6q6rYbyeKKq8cfG1ttw" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1psUYcPkNVCyT9_J_PTB6I2X44EG4ln9N" width="185"/> <img src="https://drive.google.com/uc?export=view&id=1wjJzfJ70CVOp1v4tFp62y6_HMJs3DpuA" width="200"/>
 
 
 ## Tác giả

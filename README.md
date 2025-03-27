@@ -8,7 +8,6 @@
 - **Giáo viên chỉnh sửa** và nhấn nút đã sửa bài để gửi lại kết quả.
 
 ## Demo
-![Mô tả ảnh](1.png)
-<img src="1.png" alt="Mô tả ảnh" width="300"/>
-![Mô tả ảnh](3.png)
-![Mô tả ảnh](4.png)
+<img src="1.png" alt="Mô tả ảnh" width="200"/>
+<img src="3.png" alt="Mô tả ảnh" width="200"/>
+<img src="4.png" alt="Mô tả ảnh" width="200"/>

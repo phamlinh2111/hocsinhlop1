@@ -8,4 +8,4 @@
 - **Giáo viên chỉnh sửa** và nhấn nút đã sửa bài để gửi lại kết quả.
 
 ## Demo
-!(1.png)
+![Mô tả ảnh](1.png)

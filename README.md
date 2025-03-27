@@ -9,5 +9,6 @@
 
 ## Demo
 ![Mô tả ảnh](1.png)
+<img src="1.png" alt="Mô tả ảnh" width="300"/>
 ![Mô tả ảnh](3.png)
 ![Mô tả ảnh](4.png)

@@ -1,6 +1,6 @@
-# Chỉnh sửa chính tả
+# Ứng dụng chỉnh sửa chính tả
 ## Giới Thiệu
-Ứng dụng Android giúp học sinh nhập bài viết và gửi đến giáo viên để chỉnh sửa. Giáo viên có thể nhận bài, sửa lỗi và gửi lại kết quả cho học sinh.
+Ứng dụng giúp học sinh nhập bài viết và gửi đến giáo viên để chỉnh sửa. Giáo viên có thể nhận bài, sửa lỗi và gửi lại kết quả cho học sinh.
 
 ## Tính Năng Chính
 - **Học sinh nhập bài viết** vào ô văn bản.
@@ -13,4 +13,8 @@
     <img src="3.png" alt="Mô tả ảnh" width="200"/>
     <img src="4.png" alt="Mô tả ảnh" width="200"/>
 </p>
+
+## Tác giả
+21200124 - Phạm Khánh Linh
+21200158 - Lê Thị Uyển Nhi
 

@@ -8,7 +8,7 @@
 - **Giáo viên chỉnh sửa** và nhấn nút đã sửa bài để gửi lại kết quả.
 
 ## Demo
-<img src="1.png" width="200"/> <img src="3.png" width="185"/> <img src="4.png" width="200"/>
+<img src="[1.png](https://drive.google.com/file/d/1wjJzfJ70CVOp1v4tFp62y6_HMJs3DpuA/view?usp=sharing)" width="200"/> <img src="3.png" width="185"/> <img src="4.png" width="200"/>
 
 ## Tác giả
 Nhóm 21

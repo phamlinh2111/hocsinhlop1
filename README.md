@@ -8,11 +8,7 @@
 - **Giáo viên chỉnh sửa** và nhấn nút đã sửa bài để gửi lại kết quả.
 
 ## Demo
-<p align="center">
-    <img src="1.png" alt="Mô tả ảnh" width="200"/>
-    <img src="3.png" alt="Mô tả ảnh" width="200"/>
-    <img src="4.png" alt="Mô tả ảnh" width="200"/>
-</p>
+<img src="1.png" width="200"/> <img src="3.png" width="200"/> <img src="4.png" width="200"/>
 
 ## Tác giả
 21200124 - Phạm Khánh Linh
